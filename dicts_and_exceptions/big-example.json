@@ -38,6 +38,10 @@
         {
           "timestamp": "2025-01-08T10:05:00Z",
           "activity": "Updated profile picture"
+        },
+        {
+          "timestamp": "2025-01-10T23:15:00Z",
+          "activity": "Liked a post"
         }
       ]
     },
@@ -79,6 +83,10 @@
         },
         {
           "timestamp": "2025-01-08T16:45:00Z",
+          "activity": "Liked a post"
+        },
+        {
+          "timestamp": "2025-01-09T13:25:00Z",
           "activity": "Liked a post"
         }
       ]
